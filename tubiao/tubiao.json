@@ -3,9 +3,9 @@
 "description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。", 
 "icons":
     [
-	{"name":"2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby.png"},
-	{"name":"fej", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby1.png"},
-	{"name":"h", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Jellyfin.png"},
-	{"name":"str", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Plex.png"},
+	{"name":"2", "url":"https://raw.githubusercontent.com/8833w/tubiao/refs/heads/main/tubiao/2.png"},
+	{"name":"fej", "url":"https://raw.githubusercontent.com/8833w/tubiao/refs/heads/main/tubiao/fei.png"},
+	{"name":"h", "url":"https://raw.githubusercontent.com/8833w/tubiao/refs/heads/main/tubiao/h.png"},
+	{"name":"str", "url":"https://raw.githubusercontent.com/8833w/tubiao/refs/heads/main/tubiao/str.png"},
     ]
 }
